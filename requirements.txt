@@ -5,3 +5,4 @@ pillow==8.3.1
 pymupdf==1.18.10
 Werkzeug>=2.2.2
 dnspython
+PyPDF2
