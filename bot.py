@@ -8,9 +8,9 @@ from PIL import Image
 import fitz  # PyMuPDF
 
 # Bot token and MongoDB URI
-TOKEN = 'YOUR_BOT_TOKEN'
-CHANNEL_ID = -1001234567890  # Replace with your actual channel ID
-MONGO_URI = 'mongodb://localhost:27017/'  # MongoDB URI
+TOKEN = '7197957512:AAEQEjTzy5uPLqS30Ed90ZurqgkV6nR_DYA'
+CHANNEL_ID = -1002356766494  # Replace with your actual channel ID
+MONGO_URI = 'mongodb+srv://uramit0001:EZ1u5bfKYZ52XeGT@cluster0.qnbzn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'  # MongoDB URI
 
 # Flask app for health check
 app = Flask(__name__)
